@@ -1,4 +1,4 @@
-yawd-translations, create multilingual django websites
+ An AmAzing Project   multilingual django weabsites
 ======================================================
 
 `yawd-translations <http://yawd.eu/open-source-projects/yawd-translations/>`_
